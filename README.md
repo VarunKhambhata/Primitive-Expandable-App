@@ -28,6 +28,6 @@ A primitive application that can be expanded by creating java plugin file withou
   
   (A new Plugin file will be added in DataFile directory)
   
-  <h2> Run the Program </h2>
+<h2> Run the Program </h2>
   
   Start the program with command: _**" java PrimitiveExpandableApp "**_
